@@ -1,7 +1,7 @@
 {
-  "name": "ckeditor5-custom-build",
-  "author": "CKSource",
-  "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
+  "name": "nkoda-custom-build",
+  "author": "nkoda",
+  "description": "A custom CKEditor built for strapi cms",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
